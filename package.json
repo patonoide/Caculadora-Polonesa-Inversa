@@ -1,0 +1,19 @@
+{
+  "name": "caculadora-polonesa-inversa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patonoide/Caculadora-Polonesa-Inversa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patonoide/Caculadora-Polonesa-Inversa/issues"
+  },
+  "homepage": "https://github.com/patonoide/Caculadora-Polonesa-Inversa#readme"
+}
