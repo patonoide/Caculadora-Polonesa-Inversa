@@ -2,9 +2,10 @@
   "name": "caculadora-polonesa-inversa",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/patonoide/Caculadora-Polonesa-Inversa/issues"
   },
-  "homepage": "https://github.com/patonoide/Caculadora-Polonesa-Inversa#readme"
+  "homepage": "https://github.com/patonoide/Caculadora-Polonesa-Inversa#readme",
+  "dependencies": {
+    "electron": "^7.0.0"
+  }
 }
