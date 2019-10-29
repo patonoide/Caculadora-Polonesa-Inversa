@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "electron ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/patonoide/Caculadora-Polonesa-Inversa#readme",
   "dependencies": {
-    "electron": "^7.0.0"
+    "bootstrap": "^4.3.1",
+    "electron": "^7.0.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
   }
 }
