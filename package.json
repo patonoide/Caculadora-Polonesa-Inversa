@@ -19,6 +19,6 @@
   "homepage": "https://github.com/patonoide/Caculadora-Polonesa-Inversa#readme",
   "dependencies": {
     "electron": "^7.0.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
